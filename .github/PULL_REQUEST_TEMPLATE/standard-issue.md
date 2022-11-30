@@ -6,12 +6,12 @@ This pull request is a collaboration for a new issue and will be closed once the
 When proposing an issue:
 
 - [ ] Check 1
-- [ ] Check 2
 
 Peer review checklist:
 
 - [ ] Carefully review the default template PoA to verify all the items make sense in the context of the issue
 - [ ] Check if the default allotted time makes sense
+- [ ] Really really look close
 
 ## Markdown template
 
@@ -29,6 +29,8 @@ Describe one or more stakeholder needs using the following format:
 
 >- As a `Stakeholder` in `context`, when doing `activity` I need `some need`
 
+Also read this awesome blog post http://overhere
+
 -->
 
 ## Goals
@@ -39,14 +41,14 @@ Describe what goals the squad hopes to achieve in a way that the squad can easil
 
 -->
 
-## Knowledge and skills
+## Knowledge and Skills
 
 <!--
 To make it easy for staff to know if they should sign up for the task force and for squads to validate that all the requirements have been met, make sure to clearly articulate the skills and knowledge needed on this task force using the following format:
 
-- 1-2 person/people {with skill/knowledge/experience/etc.}
-- 1-2 person/people {with skill/knowledge/experience/etc.}
-- 0 or 1 apprentice(s) for learning and/or providing a fresh perspective.
+- [ ] 1-2 person/people {with skill/knowledge/experience/etc.}
+- [ ] 1-2 person/people {with skill/knowledge/experience/etc.}
+- [ ] 0 or 1 apprentice(s) for learning and/or providing a fresh perspective.
 - X-Y persons in total
 
 -->
